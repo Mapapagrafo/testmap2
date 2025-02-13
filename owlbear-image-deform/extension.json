@@ -1,0 +1,6 @@
+{
+  "name": "Image Deformer",
+  "description": "Permite inclinar e deformar imagens no Owlbear Rodeo",
+  "version": "1.0.0",
+  "entry": "index.html"
+}
